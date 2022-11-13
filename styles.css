@@ -254,7 +254,7 @@ footer {
     display: flex;
     justify-content: center;
     padding: 100px 30px;
-    background-color: rgb(223, 217, 217);
+    background-color: rgb(150, 147, 147);
 }
 
 .dark footer {
